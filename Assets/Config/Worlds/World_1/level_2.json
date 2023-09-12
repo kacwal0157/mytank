@@ -1,0 +1,52 @@
+{
+	"scene": {
+		"arena": {
+			"x": 50,
+			"y": 50
+		},
+
+		"player": {
+			"x": 14,
+			"y": 14
+		},
+
+		"enemies": [
+			{
+				"x": 6,
+				"y": 6,
+				"healthPoints": 550,
+				"enemyName": "Enemy1_2"
+			},
+			{
+				"x": 10,
+				"y": 20,
+				"healthPoints": 600,
+				"enemyName": "Enemy1_3"
+			}
+		]
+	},
+
+	"metadata": {
+		"worldNumber": 1,
+
+		"levelDifficulty": 1,
+
+		"stats": {
+			"energyCost": 15,
+			"unlockScore": 100
+		},
+
+		"rewardsFirstTime": {
+			"energy": 20,
+			"gold": 1000,
+			"item1": "Food Shell",
+			"item2": "Magnet",
+			"item3": "Sword"
+		},
+
+		"rewards": {
+			"energy": 5,
+			"gold": 500
+		}
+	}
+}

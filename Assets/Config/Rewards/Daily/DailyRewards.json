@@ -1,0 +1,60 @@
+{
+  "weeks": 
+  [
+    {
+      "weekNumber": 0,
+      "days": [
+        {
+          "dayNumber": 0,
+          "rewardName": "Boxing Gloves",
+          "value": 1
+        },
+        {
+          "dayNumer": 1,
+          "rewardName": "Gold",
+          "value": 100
+        },
+        {
+          "dayNumer": 2,
+          "rewardName": "Gems",
+          "value": 10
+        },
+        {
+          "dayNumer": 3,
+          "rewardName": "Blue Chest",
+          "value": 1
+        },
+        {
+          "dayNumer": 4,
+          "rewardName": "Gold",
+          "value": 250
+        },
+        {
+          "dayNumer": 5,
+          "rewardName": "Rainbow Egg",
+          "value": 1
+        },
+        {
+          "dayNumer": 6,
+          "rewardName": "Gold Chest",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "weekNumber": 1,
+      "days": [
+        {
+          "dayNumber": 0,
+          "rewardName": "Gold",
+          "value": 1000
+        },
+        {
+          "dayNumber": 1,
+          "rewardName": "Rainbow Egg",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}

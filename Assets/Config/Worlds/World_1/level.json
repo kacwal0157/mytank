@@ -1,0 +1,46 @@
+{
+  "scene": {
+    "arena": {
+      "x": 100,
+      "y": 100
+    },
+
+    "player": {
+      "x": -3,
+      "y": 15
+    },
+
+    "enemies": [
+      {
+        "x": -34,
+        "y": -5,
+        "healthPoints": 500,
+        "enemyName": "Enemy7_1"
+      }
+    ]
+  },
+
+  "metadata": {
+    "worldNumber": 1,
+
+    "levelDifficulty": 1,
+
+    "stats": {
+      "energyCost": 0,
+      "unlockScore": 0
+    },
+
+    "rewardsFirstTime": {
+      "energy": 20,
+      "gold": 1000,
+      "item1": "Clover",
+      "item2": "Book",
+      "item3": "Boxing Gloves"
+    },
+
+    "rewards": {
+      "energy": 5,
+      "gold": 500
+    }
+  }
+}

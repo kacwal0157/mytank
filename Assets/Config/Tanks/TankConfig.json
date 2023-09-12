@@ -1,0 +1,307 @@
+{
+  "enemies": [
+    {
+      "name": "Enemy1_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy1_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy1_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy2_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy2_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy2_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy3_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy3_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy3_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy4_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy4_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy4_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy5_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy5_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy5_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy6_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy6_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy6_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy7_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy7_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy7_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy8_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy8_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy8_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy9_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy9_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy9_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy10_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy10_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy10_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy11_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy11_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy11_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy12_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy12_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy12_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy13_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy13_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy13_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy14_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy14_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy14_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy15_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy15_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy15_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+
+    {
+      "name": "Enemy16_1",
+      "shootingMode": "CANON",
+      "bulletType": "CANON"
+    },
+    {
+      "name": "Enemy16_2",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    },
+    {
+      "name": "Enemy16_3",
+      "shootingMode": "UZI",
+      "bulletType": "UZI"
+    }
+  ],
+  
+  "players": [
+    {
+      "name": "Panzer1",
+      "shootingModes": [
+        "UZI", "CANON"
+      ],
+      "bulletTypes": [
+        "UZI", "CANON"
+      ]
+    },
+    {
+      "name": "Panzer2",
+      "shootingModes": [
+        "UZI", "CANON"
+      ],
+      "bulletTypes": [
+        "UZI", "MINI_ROCKET"
+      ]
+    },
+    {
+      "name": "Panzer3",
+      "shootingModes": [
+        "UZI", "CANON"
+      ],
+      "bulletTypes": [
+        "UZI", "CANON"
+      ]
+    },
+    {
+      "name": "Panzer4",
+      "shootingModes": [
+        "UZI", "CANON"
+      ],
+      "bulletTypes": [
+        "UZI", "CANON"
+      ]
+    },
+    {
+      "name": "Panzer5",
+      "shootingModes": [
+        "UZI", "CANON"
+      ],
+      "bulletTypes": [
+        "UZI", "CANON"
+      ]
+    }
+  ]
+}

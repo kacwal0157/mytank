@@ -1,0 +1,15 @@
+{
+	"worldConfig":
+	[
+		{
+			"worldNumber" : 1,
+			"name": "Whispering Woods",
+			"requiredLevel": 1
+		},
+		{
+			"worldNumber" : 2,
+			"name": "Cloudy Beach",
+			"requiredLevel": 1
+		}
+	]
+}

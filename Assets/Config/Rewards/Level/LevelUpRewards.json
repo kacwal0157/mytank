@@ -1,0 +1,52 @@
+{
+  "levels": 
+  [
+    {
+      "rewardsCount": 2,
+      "rewards": [
+        {
+          "rewardName": "Gold",
+          "value": 500
+        },
+        {
+          "rewardName": "Gems",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "rewardsCount": 3,
+      "rewards": [
+		{
+          "rewardName": "Gold",
+          "value": 500
+        },
+        {
+          "rewardName": "Gems",
+          "value": 5
+        },
+        {
+          "rewardName": "MaxEnergy",
+          "value": 5
+        }
+      ]
+    },
+	{
+      "rewardsCount": 3,
+      "rewards": [
+		{
+          "rewardName": "Gold",
+          "value": 550
+        },
+        {
+          "rewardName": "Gems",
+          "value": 5
+        },
+        {
+          "rewardName": "Boxing Gloves",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
